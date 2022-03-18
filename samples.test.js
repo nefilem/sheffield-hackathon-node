@@ -20,9 +20,8 @@ function loadSamples() {
     })
 }
 
-describe('Samples from Hackerrank', () => {
-
-    test.each(loadSamples())('Sample input $filename', ({picture, expected}) => {
+describe('Sample image files', () => {
+    test.each(loadSamples())('Test strokesRequired with sample input $filename', ({picture, expected}) => {
         expect(strokesRequired(picture)).toEqual(expected)
     })
 })

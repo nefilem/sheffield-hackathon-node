@@ -1,4 +1,4 @@
-17
+17,119
 cbbabbabacabacbabbbbca
 baababccbcbaaaacacaaac
 abcbaabaaaabbabccababa
