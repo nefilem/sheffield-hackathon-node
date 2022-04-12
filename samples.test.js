@@ -1,6 +1,6 @@
-const {readdirSync, readFileSync} = require( 'fs')
-const path = require('path')
-const strokesRequired = require('./index')
+import {readdirSync, readFileSync} from "fs";
+import path from "path";
+import { strokesRequired } from "./index";
 
 function loadSamples() {
     const files = readdirSync(path.join('.', 'samples'));
