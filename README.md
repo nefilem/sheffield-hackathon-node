@@ -46,6 +46,7 @@ with the picture array described in the constraints.
 ## Getting started
 
 1. Fork the repository
+   
    ![How to fork the GitHub repository](./docs/fork.png "A screen shot of GitHub with the fork button highlighted. This is the 2nd button from the right in the row that includes the repository title.")
 
 2. Open in Gitpod: Add `https://gitpod.io/#` in front of the url to your fork. E.g. if your fork is
@@ -115,23 +116,28 @@ If you need to restart the tests for any reason, run `npm test` in the terminal.
 
 You will need to allow GitPod permission to push to your repository. Go to 
 [Gitpod Integrations](https://gitpod.io/integrations) and add public_repo permissions:
-![](./docs/gitpod-integrations.png)
-![](./docs/gitpod-permissions.png)
+
+<img src="./docs/gitpod-integrations.png" />
+
+<img src="./docs/gitpod-permissions.png" />
 
 You can then commit your changes and push them to GitHub from within Gitpod.
 
 1. From the source control side panel, stage your changes to the commit and add a commit message:
-   ![](./docs/gitpod-stage.png)
 2. Commit the changes:
-   ![](./docs/gitpod-commit.png)
 3. Synchronise the commit with GitHub:
-   ![](./docs/gitpod-sync.png)
+   
+<img src="./docs/gitpod-stage.png" width="240"/>
+&emsp;
+<img src="./docs/gitpod-commit.png" width="240"/>
+&emsp;
+<img src="./docs/gitpod-sync.png" width="240"/>
 
 ## Powered / Supported By
 
-<a href="https://www.bcs.org/membership-and-registrations/member-communities/south-yorkshire-branch/"><img src="/docs/bcs-logo.png" width="100" height="140" /></a>
+<a href="https://www.bcs.org/membership-and-registrations/member-communities/south-yorkshire-branch/"><img src="./docs/bcs-logo.png" width="100" height="140" /></a>
 &emsp;
-<a href="https://www.gitpod.io/"><img src="/docs/gitpod-logo.png"/></a>
+<a href="https://www.gitpod.io/"><img src="./docs/gitpod-logo.png"/></a>
 
 ### Facilitators:
 
